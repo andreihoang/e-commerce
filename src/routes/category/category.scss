@@ -1,0 +1,10 @@
+.category-own-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 20px;
+  grid-row-gap: 40px;
+  padding: 0 20px;
+}
+.title {
+  text-align: center;
+}
